@@ -1,0 +1,17 @@
+# Lines starting with '#' are considered comments.
+
+
+
+# Ignored all '_test' folder
+_test/
+
+
+
+# Ignored '.pyc' files
+*.pyc
+
+
+
+# »гнорируем описание скрипта (пока коментарии к функци€м 
+# добавл€ть не решаюсь - слишком часто мен€ю функционал)
+NaKoyHren.txt
