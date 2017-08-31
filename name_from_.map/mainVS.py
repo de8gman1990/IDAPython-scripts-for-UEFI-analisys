@@ -81,7 +81,7 @@ def _get_name(in_name_str):
 # основная функция
 def main():
 	# путь к '.map' файлу
-    path_to_map = r'c:\Work\Temp\Universal\EFI\Kraftway\Tools\KHV.map'
+    path_to_map = r'c:\Work\Temp\HardwareProfile.map'
     # открываем файл на чтение
     file = open(path_to_map)
  	# построчно читаем файл

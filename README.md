@@ -1,5 +1,6 @@
 IDAPython-scripts-for-UEFI-analisys
 ===================================
+.. image:: https://github.com/kyurchenko/IDAPython-scripts-for-UEFI-analisys/blob/master/logo.ico
 
 Все скрипты используются только для анализа дизассемблированных UEFI образов. Автор обращает внимание на то, что скрипты - это ~~результат упорного труда челоека с IQ < 60~~ первичные наброски, которые активно допиливаются.
 

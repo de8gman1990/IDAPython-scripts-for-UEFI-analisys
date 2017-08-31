@@ -69,7 +69,7 @@ def make_name(_addr, _str):
 
 
 def main():
-    _path_to_map = r'c:\Work\Temp\Universal\EFI\Kraftway\Tools\KHV.map'
+    _path_to_map = r'c:\Work\Temp\HardwareProfile.map'
 
     file = open(_path_to_map)
     addr = 0
